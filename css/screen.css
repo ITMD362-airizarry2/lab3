@@ -229,6 +229,10 @@ padding-top: 20px;
 	padding-top: 50px;
 }
 
+input {
+	background: #999999;
+	border: none;
+}
 
 input[type=submit]{
  background: #006666;
