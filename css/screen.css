@@ -228,8 +228,16 @@ padding-top: 20px;
 #input-submit{
 	padding-top: 50px;
 }
+
+
+input[type=submit]{
+ background: #006666;
+ border: none;
+ border-radius: 10px; 
+ width: 40%;
+}
 body{
-	background: black;
+	background: #333300;
 	font-size:1 em;
 	font-family: verdana,arial, helvetica; 
 	padding-left: 600px;
