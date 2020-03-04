@@ -202,6 +202,43 @@ label {
   display: block;
 }
 
+h1 {
+	color: white;
+	
+	
+}
+p{
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+#input-email {
+	padding-bottom: 25px;
+}
+
+#input-age-verification{
+
+padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+#input-submit{
+	padding-top: 50px;
+}
+body{
+	background: black;
+	font-size:1 em;
+	font-family: verdana,arial, helvetica; 
+	padding-left: 600px;
+	padding-right: 600px;
+	
+	text-align: center;
+	color: white;
+}
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
