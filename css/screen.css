@@ -192,40 +192,41 @@ img, audio, video {
 */
 
 html {
-  font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
-  padding: 1.182em; /* 26px / ~ 120% */
-  text-rendering: optimizeLegibility;
+	font-size: 1.375em;
+	/* 22px */
+	line-height: 1.182em;
+	/* 26px / ~ 120% */
+	padding: 1.182em;
+	/* 26px / ~ 120% */
+	text-rendering: optimizeLegibility;
 }
 
 label {
-  display: block;
+	display: block;
 }
 
 h1 {
 	color: white;
 	font-size: 1.5em;
-	font-family: Trade Winds, cursive ;
+	font-family: Trade Winds, cursive;
 }
-p{
+
+p {
 	color: white;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	
 }
 
 #input-email {
 	padding-bottom: 25px;
 }
 
-#input-age-verification{
-
-padding-top: 20px;
+#input-age-verification {
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
-
-#input-submit{
+#input-submit {
 	padding-top: 50px;
 }
 
@@ -234,22 +235,23 @@ input {
 	border: none;
 }
 
-input[type=submit]{
- background: #006666;
- border: none;
- border-radius: 10px; 
- width: 40%;
+input[type=submit] {
+	background: #006666;
+	border: none;
+	border-radius: 10px;
+	width: 40%;
 }
-body{
+
+body {
 	background: #333300;
-	font-size:1 em;
-	font-family: verdana,arial, helvetica; 
+	font-size: 1 em;
+	font-family: verdana, arial, helvetica;
 	padding-left: 300px;
 	padding-right: 300px;
-	
 	text-align: center;
 	color: white;
 }
+
 
 /* ===== LAYOUT STYLES ====== */
 
