@@ -208,7 +208,7 @@ label {
 h1 {
 	color: white;
 	font-size: 1.5em;
-	font-family: Trade Winds, cursive;
+	font-family:cursive;
 }
 
 p {
@@ -236,14 +236,14 @@ input {
 }
 
 input[type=submit] {
-	background: #006666;
+	background: #a2d5c6;
 	border: none;
 	border-radius: 10px;
 	width: 40%;
 }
 
 body {
-	background: #333300;
+	background: #d72631;
 	font-size: 1 em;
 	font-family: verdana, arial, helvetica;
 	padding-left: 300px;
